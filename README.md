@@ -7,8 +7,9 @@ Please see the doc at https://github.com/Netflix/exhibitor/wiki
 
 ## BUILDING
 
-Exhibitor is built via Gradle (http://www.gradle.org). To build from the command line:
-    ./gradlew build
+Exhibitor is built via Gradle (http://www.gradle.org). Currently only gradle `2.1+` is supported.
+
+To build from the command line: `./gradlew build`
 
 ## ARTIFACTS
 
