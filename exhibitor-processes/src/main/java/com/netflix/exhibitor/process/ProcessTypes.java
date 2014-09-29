@@ -27,6 +27,15 @@ public enum ProcessTypes
         }
     },
 
+    OTHER()
+    {
+        @Override
+        public String getDescription()
+        {
+            return "Other Process";
+        }
+    },
+
     ZOOKEEPER()
     {
         @Override
